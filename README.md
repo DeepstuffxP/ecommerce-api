@@ -3,8 +3,8 @@
 A backend REST API for an e-commerce platform built with Spring Boot and PostgreSQL.
 
 ##  Tech Stack
-- Java 17
-- Spring Boot 3.x
+- Java 21
+- Spring Boot 4.0.6
 - Spring Security + JWT Authentication
 - Spring Data JPA + Hibernate
 - PostgreSQL
